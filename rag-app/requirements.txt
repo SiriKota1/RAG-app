@@ -1,0 +1,12 @@
+langchain==0.1.17
+streamlit
+chromadb
+ollama
+langchain_community
+fastapi
+uvicorn
+pydantic
+python-multipart
+requests
+pypdf
+python-docx

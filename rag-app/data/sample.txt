@@ -1,0 +1,2 @@
+This is a sample knowledge file for the RAG app.
+You can add more .txt files to this folder to expand the knowledge base.
